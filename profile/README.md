@@ -18,8 +18,9 @@ UGD is a supportive community. We share knowledge, provide feedback, and lift ea
 
 ## Our Projects 👩‍💻
 
-### Проект 1: [Назва проекту]
-Brief description of Project 1 goes here.
+### Layers Siege
+<a href="https://codewebweaver.itch.io/layer-siege"><img alt="Itch" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"></a>    
+Battle your way through three levels in this challenging top-down tank game. Your trusty tank boasts an arsenal of three unique bullet types: blue, red, and green.
 
 ## Tools
 Our tools we using:
