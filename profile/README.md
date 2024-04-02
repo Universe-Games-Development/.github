@@ -1,4 +1,4 @@
-# Universe Game Development (UGD) 🌌🎮
+<h1 align = "center">Universe Game Development (UGD)</h1> 🌌🎮
 
 Welcome to Universe Game Development (UGD)! We’re thrilled to have you join our community of talented game developers. Our mission is to create captivating and unique gaming experiences that leave lasting impressions on players. Let’s dive into what makes UGD special:
 
