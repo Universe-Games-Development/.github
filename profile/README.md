@@ -21,8 +21,19 @@ UGD is a supportive community. We share knowledge, provide feedback, and lift ea
 ### Проект 1: [Назва проекту]
 Brief description of Project 1 goes here.
 
+## Tools
+Our tools we using:
+
+<a href="https://learn.unity.com/u/6032447dedbc2a3b33a9628b/?tab=profile"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"></a>
+<a href="https://aseprite.com/"><img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E"></a>
+<a href="https://www.audacityteam.org/"><img alt="Audacity" src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white"></a>
+<a href="https://www.blender.org/"><img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
+
 ## How to Join 🧙‍♂️
 
-Interested in collaborating with us? Want to be part of our talented team? Reach out to us through our contact form or join our vibrant community on GitHub. Let’s embark on this game development journey together!
+Interested in collaborating with us? Want to be part of our talented team? 
+Contact us through Discord: 
+ <a href="https://discord.gg/EqHTPzFb"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+Let’s embark on this game development journey together!
 
 Game On!
