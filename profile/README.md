@@ -34,6 +34,7 @@ Our tools we using:
 
 Interested in collaborating with us? Want to be part of our talented team? 
 Contact us through Discord: 
+
  <a href="https://discord.gg/EqHTPzFb"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 Let’s embark on this game development journey together!
 
