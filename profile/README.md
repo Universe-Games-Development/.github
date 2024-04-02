@@ -42,9 +42,6 @@ Our tools we using:
 </ul>
 
 
-
-
-
 ## How to Join 🧙‍♂️
 
 Interested in collaborating with us? Want to be part of our talented team? 
@@ -60,7 +57,13 @@ Contact us through Discord: 
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
- 
+
 Let’s embark on this game development journey together!
 
+## Our references 🧣
+<ul class="references">
+ <li>
+  <a href="https://www.youtube.com/@universegames7692"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+ </li>
+</ul>
 Game On!
