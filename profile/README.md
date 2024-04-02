@@ -39,6 +39,13 @@ Our tools we using:
  <li>
   <a href="https://www.blender.org/" target="_blank"><img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
  </li>
+ <li>
+  <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"></a>
+ </li>
+ <li>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
+ </li>
+ 
 </ul>
 
 
