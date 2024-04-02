@@ -27,15 +27,23 @@ Battle your way through three levels in this challenging top-down tank game. You
 Our tools we using:
 
 <ul class="tools">
- <li><a href="https://learn.unity.com/u/6032447dedbc2a3b33a9628b/?tab=profile" target="_blank"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"></a></li>
- <li></li>
- <li></li>
- <li></li>
+ <li>
+  <a href="https://learn.unity.com/u/6032447dedbc2a3b33a9628b/?tab=profile" target="_blank"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"></a>
+ </li>
+ <li>
+  <a href="https://aseprite.com/" target="_blank"><img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E"></a>
+ </li>
+ <li>
+  <a href="https://www.audacityteam.org/" target="_blank"><img alt="Audacity" src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white"></a>
+ </li>
+ <li>
+  <a href="https://www.blender.org/" target="_blank"><img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
+ </li>
 </ul>
-<a href="https://learn.unity.com/u/6032447dedbc2a3b33a9628b/?tab=profile" target="_blank"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"></a>
-<a href="https://aseprite.com/" target="_blank"><img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E"></a>
-<a href="https://www.audacityteam.org/" target="_blank"><img alt="Audacity" src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white"></a>
-<a href="https://www.blender.org/" target="_blank"><img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
+
+
+
+
 
 ## How to Join 🧙‍♂️
 
