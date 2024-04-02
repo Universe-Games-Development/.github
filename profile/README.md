@@ -37,7 +37,7 @@ Our tools we using:
  
  <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"></a>
  
- <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white" style="width: 160px; height: auto;"></a>
+ <a href="https://desktop.github.com/"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white" style="width: 160px; height: auto;"></a>
 </div>
 
 ## <h2 align="center">How to Join 🧙‍♂️</h2>
