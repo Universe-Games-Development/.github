@@ -37,7 +37,7 @@ Contact us through Discord:
 
  <a href="https://discord.gg/EqHTPzFb"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
  
- Mail us: <a href="mailto:sanekparkhomovsky@gmail.com">Напишіть нам</a>
+ <a href="mailto:sanekparkhomovsky@gmail.com">Mail us!</a>
  
 Let’s embark on this game development journey together!
 
