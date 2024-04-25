@@ -49,7 +49,7 @@ Our tools we using:
 <p align="center">Interested in collaborating with us? Want to be part of our talented team? </p>
 
 <div align="center">
- <a href="https://discord.gg/EqHTPzFb"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+ <a href="https://discord.gg/bfP2FWtw"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
  <a href="mailto:sanekparkhomovsky@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
